@@ -1,4 +1,4 @@
-# 🛡️ Project 2 – Digital Sentinel Security Implementation
+# 🛡️ Project 5 – Digital Sentinel Security Implementation
 
 > **HND in Cybersecurity | GBS London**  
 > A hands-on Windows Server security hardening project applying Group Policy, Active Directory, EFS encryption, and Information Assurance principles.
@@ -73,7 +73,7 @@ All 9 tests passed:
 ## 📁 Repository Structure
 
 ```
-Project-2-Digital-Sentinel/
+Project-5-Digital-Sentinel/
 │
 ├── README.md                  # Project overview, architecture, CIA Triad mapping
 ├── assets/                    # Screenshots from VirtualBox implementation
