@@ -1,5 +1,5 @@
 # Step 6 – Testing & Results
-
+![Digital Sentinel Banner](assets/banner.png)
 ## Objective
 
 Validate that all implemented security controls are functioning as expected. Each control was tested against its defined expected outcome on the domain-joined Windows 10 client.
