@@ -1,5 +1,5 @@
 # Step 2 – Active Directory Users & Groups
-
+![Digital Sentinel Banner](assets/banner.png)
 ## Objective
 
 Configure Active Directory Domain Services (AD DS) with domain user accounts and security groups to support Group Policy targeting and access control.
