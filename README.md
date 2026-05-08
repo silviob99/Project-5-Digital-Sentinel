@@ -1,5 +1,7 @@
 # 🛡️ Project 5 – Digital Sentinel Security Implementation
 
+![Digital Sentinel Banner](assets/banner.png)
+
 > **HND in Cybersecurity | GBS London**  
 > A hands-on Windows Server security hardening project applying Group Policy, Active Directory, EFS encryption, and Information Assurance principles.
 
