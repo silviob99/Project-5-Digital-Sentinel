@@ -1,3 +1,4 @@
+![Digital Sentinel Banner](assets/banner.png)
 # Step 1 – Virtual Machine Setup
 
 ## Objective
