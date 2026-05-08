@@ -1,5 +1,5 @@
 # Step 4 – GPO Controls (Ping Block, USB, Control Panel)
-
+![Digital Sentinel Banner](assets/banner.png)
 ## Objective
 
 Deploy three additional Group Policy controls to harden the Digital Sentinel domain environment against reconnaissance, data exfiltration, and unauthorised system access.
