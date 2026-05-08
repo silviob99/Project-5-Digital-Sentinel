@@ -1,6 +1,6 @@
-![Digital Sentinel Banner](assets/banner.png)
-# Step 1 – Virtual Machine Setup
 
+# Step 1 – Virtual Machine Setup
+![Digital Sentinel Banner](assets/banner.png)
 ## Objective
 
 Create and configure two virtual machines in VirtualBox to simulate a corporate domain environment:
