@@ -1,5 +1,5 @@
 # Step 3 – Password Policy (GPO)
-
+![Digital Sentinel Banner](assets/banner.png)
 ## Objective
 
 Enforce a strong domain-wide password policy via Group Policy to reduce the risk of weak or compromised credentials — addressing one of Digital Sentinel's identified vulnerabilities.
