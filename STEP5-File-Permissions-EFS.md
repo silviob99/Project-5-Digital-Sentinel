@@ -1,5 +1,5 @@
 # Step 5 – File Permissions & EFS Encryption
-
+![Digital Sentinel Banner](assets/banner.png)
 ## Objective
 
 Secure sensitive company data on a shared network folder by applying granular NTFS permissions and encrypting a confidential file using the **Encrypting File System (EFS)** — ensuring only authorised users can access it.
